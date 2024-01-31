@@ -7,3 +7,6 @@ In today's highly competitive retail landscape, accurate sales prediction plays 
 - **Pip:** Pip is the package installer for Python. You can check if you have it installed by running pip --version. If not, you can install it using the instructions on the official Pip website. [official Pip website](https://pip.pypa.io/en/stable/installation/).
 - **Pipenv:** Pipenv is used for virtual environment management. You can install it using pip install pipenv.
 
+# Code 
+[Code](https://github.com/babutabhavya/big-mart-sales-prediction/blob/10c79b3ddfd6e1ede9fbdbae40f4d8a3c2a4474f/main.ipynb)
+
