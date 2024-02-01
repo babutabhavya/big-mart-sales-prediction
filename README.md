@@ -8,7 +8,7 @@ In today's highly competitive retail landscape, accurate sales prediction plays 
 - **Pipenv:** Pipenv is used for virtual environment management. You can install it using pip install pipenv.
 
 # Code 
-[Code](https://github.com/babutabhavya/big-mart-sales-prediction/blob/10c79b3ddfd6e1ede9fbdbae40f4d8a3c2a4474f/main.ipynb)
+[Code](https://github.com/babutabhavya/big-mart-sales-prediction/blob/95afd349ff8f5caf0922ae6fc03bcb5193c8d322/main.ipynb)
 
 # Report
 
