@@ -10,3 +10,11 @@ In today's highly competitive retail landscape, accurate sales prediction plays 
 # Code 
 [Code](https://github.com/babutabhavya/big-mart-sales-prediction/blob/10c79b3ddfd6e1ede9fbdbae40f4d8a3c2a4474f/main.ipynb)
 
+# Report
+
+
+# Team Members 
+- Arnold Joseph (GitHub Username: Ulysses013, Matriculation No.: 3120369) 
+- Bhavya Babuta (GitHub Username: babutabhavya, Matriculation No.: 3120456) 
+- Ipshita Singh (GitHub Username: IpshitaSingh, Matriculation No.: 3121217) 
+- Shreyaasri Prakash (GitHub Username: shreyaa98, Matriculation No.: 3121429) 
