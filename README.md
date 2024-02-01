@@ -11,7 +11,7 @@ In today's highly competitive retail landscape, accurate sales prediction plays 
 [Code](https://github.com/babutabhavya/big-mart-sales-prediction/blob/95afd349ff8f5caf0922ae6fc03bcb5193c8d322/main.ipynb)
 
 # Report
-
+[Project Report](https://github.com/babutabhavya/big-mart-sales-prediction/blob/88133693a9dfacfef9a2a0c66dfe8e89a921f558/MLProjectReport.docx)
 
 # Team Members 
 - Arnold Joseph (GitHub Username: Ulysses013, Matriculation No.: 3120369) 
